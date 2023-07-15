@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+
+.calci {
+    padding: 17px;
+    border: #0e0e0d;
+    border-radius: 2em;
+    height: 450px;
+    width: 405px;
+    margin: auto;
+    background-color: #e6fb08;   
+}
+.screen{
+    font-family: cursive;
+    color: #d61515;
+    border-radius: 108px;
+    width: 96%;
+    height: 79%;
+}
+#button {
+    background-color: red;
+    font-family: cursive;
+    color: white;
+    border: solid #0e0e0d 0.9px;
+    width: 100%;
+    border-radius: 49px;
+    height: 71%;
+}
+#allbuttons {
+    font-family: cursive;
+    background-color: #3fcbe4;
+    color: white;
+    border: solid black 0.9px;
+    width: 100%;
+    border-radius: 40px;
+    height: 73%;
+}
